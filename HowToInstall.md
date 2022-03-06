@@ -5,11 +5,12 @@
 
 # 安裝流程
 1. 先在 PVE 開好虛擬機(VM)
-- OS : Ubuntu-20.04.3-server-amd64
-- CPU : host
-- Memory : 512MB/1024MB
-- BIOS : Default(SeaBIOS)
-- 機器架構 : Default(i440fx)
+- OS        : Ubuntu-20.04.3-server-amd64
+- CPU       : host
+- Memory    : 512 MB / 4096 MB
+- Disk      : 16 G
+- BIOS      : Default(SeaBIOS)
+- 機器架構  : Default(i440fx)
 
 2. 使用 windows terminal 登入
 - 純粹是我習慣
